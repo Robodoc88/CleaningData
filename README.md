@@ -10,6 +10,9 @@ The data was originally obtained from https://d396qusza40orc.cloudfront.net/getd
 The new data set was reshaped into "skinny tall data set" with "melt" function, and the final tidy data set was created with "dcast" function.
 
 In this repository, the following files were included:
-  run_analysis.R    The R file that processes the downloaded data sets and transforms it into final tidy data set.
-  report.txt        The tiny data set that includes the mean of measured variables for each subject and each activity.
-  codebook.txt      The codebook that explain the columns of data set.
+  
+  run_analysis.R -    The R file that processes the downloaded data sets and transforms it into final tidy data set.
+  
+  report.txt -       The tiny data set that includes the mean of measured variables for each subject and each activity.
+  
+  codebook.txt -     The codebook that explain the columns of data set.
