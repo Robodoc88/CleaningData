@@ -13,6 +13,6 @@ In this repository, the following files were included:
   
   run_analysis.R -    The R file that processes the downloaded data sets and transforms it into final tidy data set.
   
-  report.txt -       The tiny data set that includes the mean of measured variables for each subject and each activity.
+  report.txt -       The tidy data set that includes the mean of measured variables for each subject and each activity.
   
   codebook.txt -     The codebook that explain the columns of data set.
